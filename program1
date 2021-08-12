@@ -1,0 +1,2 @@
+Python_simple_program=("hello world")
+print(Python_simple_program)
